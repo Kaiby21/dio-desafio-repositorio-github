@@ -7,4 +7,4 @@ git commit -m - Guardar o estado do seu repositório naquele momento.
 
 git clone - criar um clone ou cópia de um repositório.
 
-git remot - adicionar um repositório remoto.
+git remote - adicionar um repositório remoto.

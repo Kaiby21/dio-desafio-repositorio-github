@@ -1,0 +1,10 @@
+git init - comando para criar um novo repositório do git no diretório local.
+
+git add - adicionar os arquivos para a área de staging. Dessa forma os arquivos 
+estarão prontos para serem commitados.
+
+git commit -m - Guardar o estado do seu repositório naquele momento.
+
+git clone - criar um clone ou cópia de um repositório.
+
+git remot - adicionar um repositório remoto.
